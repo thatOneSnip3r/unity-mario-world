@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/game-scene.unity
+    guid: b118fddb8e7be4b0b889560454e97efc
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 41f0d3ef2a07b448795ba7fa716467c6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2c02f9e35c7c04fbc804689ff29245d6, type: 2}
