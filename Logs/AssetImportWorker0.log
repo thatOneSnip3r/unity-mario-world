@@ -12,124 +12,132 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54972
+55604
 Successfully changed project path to: /Users/nsnipesrea22/Desktop/Class Documents/Intro to VR/Unity/unity-mario-world
 /Users/nsnipesrea22/Desktop/Class Documents/Intro to VR/Unity/unity-mario-world
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 72.79 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 58.85 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/nsnipesrea22/Desktop/Class Documents/Intro to VR/Unity/unity-mario-world/Assets
 GfxDevice: creating device client; threaded=0
-2021-05-24 08:21:04.860 Unity[47649:851246] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
-2021-05-24 08:21:04.860 Unity[47649:851246] Metal devices available: 1
-2021-05-24 08:21:04.860 Unity[47649:851246] 0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
-2021-05-24 08:21:04.861 Unity[47649:851246] Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-05-24 08:59:21.494 Unity[48240:862077] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-05-24 08:59:21.494 Unity[48240:862077] Metal devices available: 1
+2021-05-24 08:59:21.494 Unity[48240:862077] 0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-05-24 08:59:21.494 Unity[48240:862077] Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 640
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56649
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.006121 seconds.
+Registered in 0.001261 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 54.22 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 55.47 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.149 seconds
+- Completed reload, in  2.193 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005182 seconds.
+Registered in 0.001640 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 59.33 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 56.78 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.363 seconds
+- Completed reload, in  1.397 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Launching external process: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
-Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2737 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 211.3 MB.
+System memory in use before: 211.2 MB.
 System memory in use after: 208.6 MB.
 
 Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 3162.
-Total: 5.305779 ms (FindLiveObjects: 0.506704 ms CreateObjectMapping: 0.257940 ms MarkObjects: 2.554957 ms  DeleteObjects: 1.984041 ms)
+Total: 5.831059 ms (FindLiveObjects: 0.763281 ms CreateObjectMapping: 0.280515 ms MarkObjects: 3.146837 ms  DeleteObjects: 1.637432 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_left_hand.png
-  artifactKey: Guid(27f3faef5a63db84c9cbac06e94ab7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_left_hand.png using Guid(27f3faef5a63db84c9cbac06e94ab7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d559e2ab09fe53850a07e70908b9443') in 0.360142 seconds
-  Import took 0.369112 seconds .
+  path: Assets/ExampleAssets/Models
+  artifactKey: Guid(aa97895f3852bd44399ef0893bec4f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models using Guid(aa97895f3852bd44399ef0893bec4f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228c6b947e7960f0200092532f61f4ff') in 0.007646 seconds
+  Import took 0.014750 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000258 seconds.
-  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system.png
-  artifactKey: Guid(b93fe5c516cf6ed4b9153ec790f856e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system.png using Guid(b93fe5c516cf6ed4b9153ec790f856e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c04fffdb1088cf1c0b735a8ce0453cce') in 0.007010 seconds
-  Import took 0.013084 seconds .
+  Time since last request: 4.249278 seconds.
+  path: Assets/ExampleAssets/Prefabs/Construction Light Low.prefab
+  artifactKey: Guid(bf0a225a9ff184f2789f3036faaa9150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Prefabs/Construction Light Low.prefab using Guid(bf0a225a9ff184f2789f3036faaa9150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdc82e41f31b689da27f7c7a5c8c8a59') in 0.602269 seconds
+  Import took 0.611116 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_unknown_hand.png
-  artifactKey: Guid(77b322b27d7d39f4d91e479d19065d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_unknown_hand.png using Guid(77b322b27d7d39f4d91e479d19065d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce4a5330e8f5307dcc5e46b2849f43c') in 0.014254 seconds
-  Import took 0.021291 seconds .
+  Time since last request: 0.000261 seconds.
+  path: Assets/ExampleAssets/Prefabs/Workshop Set.prefab
+  artifactKey: Guid(a87f0180d46fd334b9025d0314a0dc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Prefabs/Workshop Set.prefab using Guid(a87f0180d46fd334b9025d0314a0dc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1d49d3146d0a6589caf72f8632cd203') in 0.062340 seconds
+  Import took 0.069588 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000304 seconds.
-  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_right_hand.png
-  artifactKey: Guid(1acda2a2584a8fb4683ea56799b27fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_right_hand.png using Guid(1acda2a2584a8fb4683ea56799b27fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a85106a3b29404229652bfbbe6c40254') in 0.012112 seconds
-  Import took 0.018156 seconds .
+  Time since last request: 0.000251 seconds.
+  path: Assets/ExampleAssets/Prefabs/Paint Supplies.prefab
+  artifactKey: Guid(283e6530a665e4513959d1cd4883682f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Prefabs/Paint Supplies.prefab using Guid(283e6530a665e4513959d1cd4883682f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e5545516a567e36ce37f94997fca60') in 0.066945 seconds
+  Import took 0.073552 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_left_hand_question.png
-  artifactKey: Guid(6789d499b24f8964c8bb06e21008e546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_left_hand_question.png using Guid(6789d499b24f8964c8bb06e21008e546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c86320a506af4280cbd5603d9c007945') in 0.013144 seconds
-  Import took 0.019924 seconds .
+  Time since last request: 0.000203 seconds.
+  path: Assets/ExampleAssets/Prefabs/Workbench_LOD0.prefab
+  artifactKey: Guid(c0adcaeba3022437293536832628fdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Prefabs/Workbench_LOD0.prefab using Guid(c0adcaeba3022437293536832628fdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebe1ead2a4c92d46e801b8badeb4e321') in 0.041033 seconds
+  Import took 0.047467 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_feet.png
-  artifactKey: Guid(032fb1710098a1d47ad34d72e90f714a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_feet.png using Guid(032fb1710098a1d47ad34d72e90f714a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ec0e84c702bd5830c9ebb75dd9d467') in 0.016924 seconds
-  Import took 0.023485 seconds .
+  Time since last request: 0.000451 seconds.
+  path: Assets/ExampleAssets/Prefabs/Workbench.prefab
+  artifactKey: Guid(8850d132797ff49298ba781e8e1c9bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Prefabs/Workbench.prefab using Guid(8850d132797ff49298ba781e8e1c9bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9336a637a9bcb809b01f15d2bbc8f539') in 0.078565 seconds
+  Import took 0.084305 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_right_hand_question.png
-  artifactKey: Guid(90173f9e9e795f74ca97ccc52fe410cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_right_hand_question.png using Guid(90173f9e9e795f74ca97ccc52fe410cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08375586e42cf7097fa6d4367e5ff3a7') in 0.018213 seconds
-  Import took 0.024599 seconds .
+  Time since last request: 0.000246 seconds.
+  path: Assets/ExampleAssets/Prefabs/Props.prefab
+  artifactKey: Guid(85dfab9623c67784fa7894de63cd1604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Prefabs/Props.prefab using Guid(85dfab9623c67784fa7894de63cd1604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d2d508478fcfb35ab05c1ef6eb302c4') in 0.058835 seconds
+  Import took 0.065074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/ExampleAssets/Prefabs/Workbench_LOD1.prefab
+  artifactKey: Guid(38d5ecfa2b93c4095b4cc5d4a590e676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Prefabs/Workbench_LOD1.prefab using Guid(38d5ecfa2b93c4095b4cc5d4a590e676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fefd9e7688b2bf62d5c13033407074d') in 0.027984 seconds
+  Import took 0.032889 seconds .
 
