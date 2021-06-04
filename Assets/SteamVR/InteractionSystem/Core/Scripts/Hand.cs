@@ -959,7 +959,7 @@ namespace Valve.VR.InteractionSystem
                     closestInteractable = contacting;
                     foundCloser = true;
                 }
-                iActualColliderCount++;
+                contacting.gameObject.SetActive(false);
             }
 
             if (showDebugInteractables && foundCloser)
